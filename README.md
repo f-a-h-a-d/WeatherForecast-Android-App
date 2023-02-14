@@ -1,7 +1,7 @@
 # WeatherForecast-Android-App
 This is a simple android app using API
 
-Specal thanks to my teammates Abdus Sahid and Abu Sayeed. It was our team project at 2nd year.
+Specal thanks to my teammates **Abdus Sahid** and **Abu Sayeed**. It was our team project at 2nd year.
 
 Introduction:
 
